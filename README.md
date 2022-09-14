@@ -2,7 +2,7 @@
 
 A repository for all lecture, review, or other resources for the Flatiron School's Live Data Science 091922 Cohort.
 
-!["john stewart, are you ready for this" from gihpy](https://media.giphy.com/media/sOSZ8OB5yyFfAMlxw8/giphy.gif)
+!["john stewart, are you ready for this" from gihpy](https://media.giphy.com/media/12WPxqBJAwOuIM/giphy.gif)
 
 ## Written Instructions to Connect to this Repository:
 
